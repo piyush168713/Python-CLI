@@ -1,4 +1,4 @@
 # Python-CLI
 
-For qrcode 
-Insatall `pip install qrcode`
+For qrcode run: Install Requirement <br> 
+`pip install qrcode`
