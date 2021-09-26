@@ -10,4 +10,6 @@
 <h3><code>pip install python-barcode</code></h3>
 <br>
 <h2><b>To Fetch HTTP status code: Installation Requirement</b></h2>
-<h3><code>pip install urllib3<br>pip install emoji</code></h3>
+<h3><code>pip install urllib3
+  <br>
+  pip install emoji</code></h3>
