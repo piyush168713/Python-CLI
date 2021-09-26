@@ -1,4 +1,4 @@
-rom urllib.request import urlopen
+from urllib.request import urlopen
 from urllib.error import URLError, HTTPError
 import emoji
 
