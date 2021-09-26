@@ -8,3 +8,6 @@
 <br>
 <h2><b>To create barcode: Installation Requirement</b></h2>
 <h3><code>pip install python-barcode</code></h3>
+<br>
+<h2><b>To create : Installation Requirement</b></h2>
+<h3><code>pip install python-barcode</code></h3>
