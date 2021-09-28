@@ -13,5 +13,5 @@
 <h3><code>pip install urllib3</code><h3>
 <h3><code>pip install emoji</code></h3>
 <br>
-<h2><b>: Installation Requirement</b></h2>
-<h3><code>pip install </code></h3>
+<h2><b>For URL Shortener: Installation Requirement</b></h2>
+<h3><code>pip install pyshorteners</code></h3>
