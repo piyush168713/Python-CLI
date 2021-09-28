@@ -15,3 +15,6 @@
 <br>
 <h2><b>For URL Shortener: Installation Requirement</b></h2>
 <h3><code>pip install pyshorteners</code></h3>
+<br>
+<h2><b>For Image Captcha: Installation Requirement</b></h2>
+<h3><code>pip install captcha</code></h3>
