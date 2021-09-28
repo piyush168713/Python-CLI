@@ -21,3 +21,6 @@
 <br>
 <h2><b>For typingspeed: Installation Requirement</b></h2>
 <h3><code>pip install python-time</code></h3>
+<br>
+<h2><b>For urlloadingtime: Installation Requirement</b></h2>
+<h3><code>pip install urlopen</code></h3>
