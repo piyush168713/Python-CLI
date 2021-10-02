@@ -22,5 +22,7 @@
 <h2><b>For Typing speed: Installation Requirement</b></h2>
 <h3><code>pip install python-time</code></h3>
 <br>
+  
+  &nbsp; &nbsp;
 <h2><b>For URL Loading Time: Installation Requirement</b></h2>
 <h3><code>pip install urlopen</code></h3>
