@@ -24,3 +24,5 @@
 <br>
 <h2><b>For URL Loading Time: Installation Requirement</b></h2>
 <h3><code>pip install urlopen</code></h3>
+
+  
