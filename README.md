@@ -38,3 +38,6 @@
 <h2><b>For Mandel Brot Set: Installation Requirement</b></h2>
 <h3><code>pip install image</code></h3>
 <h3><code>pip install tqdm</code></h3>
+<br>
+<h2><b>For Verify Email: Installation Requirement</b></h2>
+<h3><code>pip install verify-email</code></h3>
