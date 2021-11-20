@@ -33,9 +33,7 @@
 <h2><b>For Image to ASCII text: Installation Requirement</b></h2>
 <h3><code>pip install pywhatkit</code></h3>
 <br>
-<h2><b>For Julia Set: Installation Requirement</b></h2>
-<h3><code>pip install numpy</code></h3>
-<h3><code>pip install matplotlib</code></h3>
+
 <h2><b>For Logistic Map Zoom: Installation Requirement</b></h2>
 <h3><code>pip install vispy</code></h3>
 <h3><code>pip install numba</code></h3>
@@ -52,3 +50,7 @@
 <h3><code>pip install pandas</code></h3>
 <h3><code>pip install pyodeint</code></h3>
 <h3><code>pip install constants</code></h3>
+<br>
+<h2><b>For Julia Set: Installation Requirement</b></h2>
+<h3><code>pip install numpy</code></h3>
+<h3><code>pip install matplotlib</code></h3>
