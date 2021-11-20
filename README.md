@@ -27,6 +27,8 @@
 <br>
 <h2><b>For Double Pendulum: Installation Requirement</b></h2>
 <h3><code>pip install numpy</code></h3>
+<h3><code>pip install matplotlib</code></h3>
+<h3><code>pip install double-pendulum</code></h3>
 <br>
 <h2><b>For Image to ASCII text: Installation Requirement</b></h2>
 <h3><code>pip install pywhatkit</code></h3>
@@ -41,3 +43,9 @@
 <br>
 <h2><b>For Verify Email: Installation Requirement</b></h2>
 <h3><code>pip install verify-email</code></h3>
+<br>
+<h2><b>For double_pendulum: Installation Requirement</b></h2>
+<h3><code>pip install numpy</code></h3>
+<h3><code>pip install pandas</code></h3>
+<h3><code>pip install pyodeint</code></h3>
+<h3><code>pip install constants</code></h3>
