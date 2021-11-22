@@ -33,7 +33,6 @@
 <h2><b>For Image to ASCII text: Installation Requirement</b></h2>
 <h3><code>pip install pywhatkit</code></h3>
 <br>
-
 <h2><b>For Logistic Map Zoom: Installation Requirement</b></h2>
 <h3><code>pip install vispy</code></h3>
 <h3><code>pip install numba</code></h3>
@@ -57,3 +56,5 @@
 <br>
 <h2><b>For Print Emoji: Installation Requirement</b></h2>
 <h3><code>pip install emoji</code></h3>
+
+  
