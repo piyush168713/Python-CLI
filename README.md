@@ -56,5 +56,3 @@
 <br>
 <h2><b>For Print Emoji: Installation Requirement</b></h2>
 <h3><code>pip install emoji</code></h3>
-
-  
