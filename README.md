@@ -54,5 +54,9 @@
 <h3><code>pip install numpy</code></h3>
 <h3><code>pip install matplotlib</code></h3>
 <br>
+  
+  
+  
+  
 <h2><b>For Print Emoji: Installation Requirement</b></h2>
 <h3><code>pip install emoji</code></h3>
